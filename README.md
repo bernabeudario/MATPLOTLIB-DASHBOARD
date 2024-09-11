@@ -8,4 +8,4 @@ El archivo [Matplotlib-Dashboard.ipynb](https://github.com/bernabeudario/MATPLOT
 * Matplotlib
 
 El detalle completo se encuentra detallado en el siguiente enlace:
-* [Abrir enlace Linkedin...]()
+* [Abrir enlace Linkedin...](https://www.linkedin.com/pulse/python-matplotlib-crear-y-exportar-dashboards-dario-bernabeu-ofnuf)
