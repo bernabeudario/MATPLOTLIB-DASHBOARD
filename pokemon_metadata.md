@@ -3,7 +3,7 @@ Type: Tipo primario y secundario de Pokémon.
 Species: Clasificación de especie de Pokémon. 
 Height: Altura del Pokémon expresada en metros. 
 Weight: Peso del Pokémon expresado en kilogramos.
-Abilities: Abilidades que posee el Pokémon.
+Abilities: Habilidades que posee el Pokémon.
 Catch Rate: Probabilidad de captura exitosa del Pokémon.
 Base Friendship: Nivel inicial de amistad del Pokémon.
 Base Exp.: Puntos de experiencia que se obtienen al derrotar al Pokémon.
